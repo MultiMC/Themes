@@ -6,7 +6,7 @@ SPDX-License-Identifier: MIT
 
 Ore UI Icon Pack
 ---
-Minecraft Bedrock inspired Ore UI Icon theme for Prism Launcher.
+Minecraft Bedrock inspired Ore UI Icon theme.
 
 ## Preview
 ![Icon Pack Preview](PREVIEW.png)

@@ -6,7 +6,7 @@ SPDX-License-Identifier: CC0-1.0
 
 iOS
 ---
-iOS icon theme previously in Prism Launcher and MultiMC before being removed in 12.0.0.
+iOS icon theme.
 
 ## Preview
 

@@ -6,7 +6,7 @@ SPDX-License-Identifier: CC0-1.0
 
 Breeze-Dark
 ---
-Default dark theme prior to Prism Launcher 5.0
+Default dark theme
 
 ## Preview
 ![Breeze-Dark Preview](preview.png)
