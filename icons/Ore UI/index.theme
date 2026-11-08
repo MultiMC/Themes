@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Ore UI
 Comment=Ore UI inspired icons
-Inherits=flat_white
+Inherits=pe_light
 Directories=16x16,24x24,32x32,48x48,64x64,96x96
 
 [16x16]
