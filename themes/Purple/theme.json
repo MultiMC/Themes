@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#101010",
+        "Base": "#291242",
+        "BrightText": "#ff0000",
+        "Button": "#392252",
+        "ButtonText": "#ffffff",
+        "Highlight": "#582C87",
+        "HighlightedText": "#000000",
+        "Link": "#2a82da",
+        "Text": "#ffffff",
+        "ToolTipBase": "#ffffff",
+        "ToolTipText": "#ffffff",
+        "Window": "#392252",
+        "WindowText": "#ffffff",
+        "fadeAmount": 0.5,
+        "fadeColor": "#000000"
+    },
+    "name": "Purple",
+    "widgets": "Fusion"
+}
