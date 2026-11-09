@@ -911,3 +911,16 @@ QProgressBar::chunk {
     background-color: #5C2DD5;
     border: 2px solid #7245E6;
 }
+
+/* The toolbar's overflow button (>>) is a QToolButton too, but only about 12 px wide: no
+   frame, margins or padding, in any state, or there is no room left for its arrow */
+QToolBarExtension,
+QToolBarExtension:hover,
+QToolBarExtension:pressed,
+QToolBarExtension:checked,
+QToolBarExtension:disabled {
+    border: none;
+    border-image: none;
+    margin: 0px;
+    padding: 0px;
+}

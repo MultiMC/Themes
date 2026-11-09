@@ -1198,3 +1198,11 @@ QToolTip {
 QListView {
 	padding: 5px;
 }
+
+/* The toolbar's overflow button (>>) is a QToolButton too, but only about 12 px wide: no
+   margins or padding, or there is no room left for its arrow */
+QToolBarExtension,
+#mainToolBar QToolBarExtension {
+    margin: 0px;
+    padding: 0px;
+}
